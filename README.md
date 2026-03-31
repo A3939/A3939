@@ -2,11 +2,9 @@
 
 ## I'm a Son, Developer, and Lerner!!
 
-- 🔭 I just launched my first Youtube channel: [Aldairtiyna][youtube]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Qualifying into the GATE Exam
-- ⚡ Fun fact: I love to draw and play Games
+- 👯 I’m looking to collaborate with developers & creators
+- ⚡ Fun fact: I love to draw and watch f1
 
 ### Connect with me:
 
